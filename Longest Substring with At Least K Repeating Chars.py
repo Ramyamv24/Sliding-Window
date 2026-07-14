@@ -17,7 +17,7 @@ class Solution:
         return len(s)
 
 
-# Main Part
+
 if __name__ == "__main__":
     s = "aaabb"
     k = 3
